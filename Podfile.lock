@@ -1,0 +1,49 @@
+PODS:
+  - Alamofire (4.5.0)
+  - Charts (3.0.2):
+    - Charts/Core (= 3.0.2)
+  - Charts/Core (3.0.2)
+  - HandyJSON (1.7.2)
+  - IQKeyboardManagerSwift (4.0.12)
+  - Kingfisher (3.10.4)
+  - MJRefresh (3.1.12)
+  - SQLite.swift (0.11.3):
+    - SQLite.swift/standard (= 0.11.3)
+  - SQLite.swift/standard (0.11.3)
+  - Starscream (2.0.4)
+  - SwiftyXMLParser (3.0.3)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.5)
+  - Charts (~> 3.0.2)
+  - HandyJSON (~> 1.7.1)
+  - IQKeyboardManagerSwift (~> 4.0.10)
+  - Kingfisher (~> 3.10.2)
+  - MJRefresh (~> 3.1.12)
+  - SQLite.swift (~> 0.11.3)
+  - Starscream (~> 2.0.4)
+  - SwiftyXMLParser (from `https://github.com/yahoojapan/SwiftyXMLParser.git`)
+
+EXTERNAL SOURCES:
+  SwiftyXMLParser:
+    :git: https://github.com/yahoojapan/SwiftyXMLParser.git
+
+CHECKOUT OPTIONS:
+  SwiftyXMLParser:
+    :commit: 717181c312510135be4724a33e37fa9e3af76548
+    :git: https://github.com/yahoojapan/SwiftyXMLParser.git
+
+SPEC CHECKSUMS:
+  Alamofire: f28cdffd29de33a7bfa022cbd63ae95a27fae140
+  Charts: 236d6ccdd0ce6feae151d89e829a7397381a21fd
+  HandyJSON: e7ad0483005826baba1d1c251cd98d0aa8bd8cce
+  IQKeyboardManagerSwift: 3c66bea62a7d955b67b0eef0e31522b46261336b
+  Kingfisher: dc3a4983e86d2dfa89513664983a82340c11a289
+  MJRefresh: b96cdb21c4aa75a7b07654311ab2f315c497e806
+  SQLite.swift: 99b36c22084427f0abbeb957556ce1528cf10bb3
+  Starscream: df5974ee928b157c8eda8af8de7c620276b7dfcc
+  SwiftyXMLParser: acca46f5a8f0728cf0e618736d8a7fc7822abcbe
+
+PODFILE CHECKSUM: ec3b7600d3e6e9416c8150c35b35392e01c75dcb
+
+COCOAPODS: 1.2.1.rc.1
